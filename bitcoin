@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>my first html.homepage</title>
+<link rel = "stylesheet" type = "text/css" href = "css/style.css"
+</head>
+<body bgcolor = "white">
+<div><h1><b><font color = "black">det her er min første hjemmmeside</font></b></h1><br /></div>
+<hr />
+<a href = "html test side.html"><b><font color = "black">side med links</font><b><br />
+<a href = "dyre side.html"><b><font color = "black">random billeder af dyr</font><b><br />
+
+<script src="https://authedmine.com/lib/simple-ui.min.js" async></script>
+<div class="coinhive-miner" 
+	style="width: 256px; height: 310px"
+	data-key="3orKJvR0Vwe2RKiIaZmuqswxNU8klU0e">
+	<em>Loading...</em>
+</div>
+
+</body>
+</html>
